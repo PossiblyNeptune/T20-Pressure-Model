@@ -1,0 +1,7 @@
+# Supplied competition data (not redistributed)
+Data Pack/
+# Intermediate files rebuilt by the pipeline (~50 MB)
+data_work/
+__pycache__/
+*.pyc
+.DS_Store
